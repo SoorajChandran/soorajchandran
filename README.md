@@ -36,7 +36,7 @@ I’m a strong believer in remote work and global talent.
 - Travel & photography  
 
 For the past few years, I’ve been travelling the world with my wife and best friend, Keerthi  
-→ https://x.com/keerthijay_
+→ <https://x.com/keerthijay_>
 
 ---
 
@@ -50,7 +50,7 @@ I talk to myself a lot, I share some of that here:
 
 ## Elsewhere on the Internet
 
-- Twitter / X: https://x.com/soorajchandran_  
+- Twitter / X: <https://x.com/soorajchandran_>
 - Instagram: http://instagram.com/sooraj_chandran  
 
 ---
