@@ -17,8 +17,7 @@ Previously:
 
 - Head of Product & Engineering at **Via** (Series A) — acquired by Justworks  
 - Co-founder of **Carrom** — software for remote teams to manage payroll and benefits  
-  → Acquired by Oyster™  
-  (Press release: https://www.prnewswire.com/news-releases/oyster-acquires-carrom-to-accelerate-global-employment-platform-301065671.html)
+  → [Acquired by Oyster™](https://www.prnewswire.com/news-releases/oyster-acquires-carrom-to-accelerate-global-employment-platform-301065671.html)
 - Co-founder of **Marketfox** (YC W17 Company)
 - Engineering roles at **store2be** and **Freshworks**
 
