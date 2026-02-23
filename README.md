@@ -47,6 +47,12 @@ I talk to myself a lot, I share some of that here:
 
 ---
 
+## Projects
+
+https://www.parkinsonsvoicegym.com/
+
+---
+
 ## Elsewhere on the Internet
 
 - Twitter / X: <https://x.com/soorajchandran_>
