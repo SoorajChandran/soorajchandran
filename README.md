@@ -49,8 +49,8 @@ I talk to myself a lot, I share some of that here:
 
 ## Projects
 
-https://www.parkinsonsvoicegym.com/
-https://soorajchandran.github.io/touchgrass/
+- https://www.parkinsonsvoicegym.com/
+- https://soorajchandran.github.io/touchgrass/
 
 ---
 
